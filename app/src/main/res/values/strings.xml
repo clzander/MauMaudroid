@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MauMaudroid</string>
+    <string name="title">MauMaudroid</string>
+    <string name="bluetooth_info">If you see this text, either Bluetooth isn\'t enabled and / or some permissions weren\'t granted yet. In order to start the app, click the button.  If you reject, the app will stay in its state and you can always press the button again, when you have changed your mind. If you later revoke any permissions or disable bluetooth, the app will stop an prompt you again with this view.</string>
+    <string name="start_button">Start</string>
+    <string name="main_menu_title">MauMaudroid</string>
+    <string name="menu_join_button">Join Button</string>
+    <string name="menu_host_button">Host Button</string>
+    <string name="host_title">Waiting for devices to connect…</string>
+    <string name="join_title">Connect to a detected device:</string>
+    <string name="join_previous">Previous</string>
+    <string name="join_select">Connect</string>
+    <string name="join_next">Next</string>
+    <string name="game_discard_pile">Discard Pile:</string>
+    <string name="game_deck">Deck:</string>
+    <string name="game_cards">Your cards:</string>
+    <string name="game_cards_next_button">Next</string>
+    <string name="game_cards_previous_button">Previous</string>
+    <string name="game_cards_select_button">Select</string>
+    <string name="game_deck_description">Deck</string>
+    <string name="game_hand_description">Hand</string>
+    <string name="game_discard_pile_description">Discard Pile</string>
+
+</resources>
